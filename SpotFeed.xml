@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<golds>
+  <gold>
+    <price>1200.00</price>
+  </gold>
+  <silver>
+    <price>14.50</price>
+  </silver>
+  <platinum>
+    <price>830.00</price>
+  </platinum>
+  <palladium>
+    <price>1110.00</price>
+  </palladium>
+</golds>
